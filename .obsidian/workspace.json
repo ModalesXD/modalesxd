@@ -6,7 +6,7 @@
       {
         "id": "3aab7f6b7d43d69f",
         "type": "tabs",
-        "dimension": 52.721774193548384,
+        "dimension": 40.725806451612904,
         "children": [
           {
             "id": "f08923bbf0e1370e",
@@ -42,7 +42,7 @@
       {
         "id": "f53930a71885a6d1",
         "type": "tabs",
-        "dimension": 47.278225806451616,
+        "dimension": 59.2741935483871,
         "children": [
           {
             "id": "ec78835f26a375c0",
@@ -217,7 +217,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "72a3d1d3b5bc786e",
+  "active": "3ae7cf3b0c06408f",
   "lastOpenFiles": [
     "modalesxd.jpg",
     "channels4_profile.jpg",
