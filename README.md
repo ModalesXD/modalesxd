@@ -21,11 +21,7 @@
 </div>
 
 
-<div align="center" style="max-width: 700px; margin: 0 auto 40px; padding: 25px;  border-radius: 1.5rem; box-shadow: inset 0 0 0 0.1px rgba(255,255,255,0.05);">
-  <p style="line-height: 1.7; color: #c7d2fe; margin: 0;">
-    Passionate about building, breaking, and understanding technology at its core. I'm a curious soul driven by innovation and a hunger to master both software and hardware. I code with purpose, explore with intention, and contribute with pride. Whether it's terminal commands or web stacks, I'm always pushing the boundaries.
-  </p>
-</div>
+
 
 ## 🚀 Tech Stack
 
