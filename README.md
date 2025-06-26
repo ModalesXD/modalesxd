@@ -7,8 +7,8 @@
         <b>Self-taught Developer | Linux Enthusiast | Open Source Advocate</b>
       </p>
     </td>
-    <td valign="middle" width="40%">
-      <img src="./modalesxd.jpg" width="180" style="border-radius: 10rem; box-shadow: 0 4px 12px rgba(0,0,0,0.2); border: 3px solid #4f46e5;" alt="Profile picture" />
+    <td align="center" valign="middle" width="40%">
+      <img src="./modalesxd.jpg" width="180" style="display: block; margin: auto; border-radius: 10rem; box-shadow: 0 4px 12px rgba(0,0,0,0.2); border: 3px solid #4f46e5;" alt="Profile picture" />
     </td>
   </tr>
 </table>
