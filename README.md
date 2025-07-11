@@ -26,7 +26,7 @@
 <details>
   <summary><strong>🖥️ Frameworks</strong></summary>
   <p>
-    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nestjs" alt="Next.js, React, Tailwind CSS, NestJS" width="180" height="32"/>
+    <img src="https://skillicons.dev/icons?i=react,tailwind,nestjs,expressjs" alt="Next.js, React, Tailwind CSS, NestJS" width="180" height="32"/>
   </p>
 </details>
 <details>
