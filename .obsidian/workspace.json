@@ -1,51 +1,28 @@
 {
   "main": {
-    "id": "0939274f58d7971b",
+    "id": "4f7eaeaa57a284dd",
     "type": "split",
     "children": [
       {
-        "id": "3aab7f6b7d43d69f",
+        "id": "4b0cfd4f6f8e628e",
         "type": "tabs",
-        "dimension": 40.725806451612904,
         "children": [
           {
-            "id": "f08923bbf0e1370e",
+            "id": "482a91c2116f4cda",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "README.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "README"
             }
           },
           {
-            "id": "3ae7cf3b0c06408f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "f53930a71885a6d1",
-        "type": "tabs",
-        "dimension": 59.2741935483871,
-        "children": [
-          {
-            "id": "ec78835f26a375c0",
+            "id": "d8cc46daca12355c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -57,18 +34,6 @@
               "icon": "lucide-file",
               "title": "README"
             }
-          },
-          {
-            "id": "7772d55868874448",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
-            }
           }
         ]
       }
@@ -76,15 +41,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "4e707d6248f8d82a",
+    "id": "705c0bacad2db880",
     "type": "split",
     "children": [
       {
-        "id": "775482bbc80e3753",
+        "id": "84706563e31ccf24",
         "type": "tabs",
         "children": [
           {
-            "id": "72a3d1d3b5bc786e",
+            "id": "59b04fe6b79fff77",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -97,7 +62,7 @@
             }
           },
           {
-            "id": "18bd86c961e7287a",
+            "id": "2aef9b791eb8ad3c",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -114,7 +79,7 @@
             }
           },
           {
-            "id": "443b805ea4c391cf",
+            "id": "cb317d1f7a2e9591",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -130,15 +95,15 @@
     "width": 300
   },
   "right": {
-    "id": "73dc316729f4c899",
+    "id": "1d59b3769b09dc00",
     "type": "split",
     "children": [
       {
-        "id": "027e4e5a91cbdda6",
+        "id": "d0bb07182ea5d79e",
         "type": "tabs",
         "children": [
           {
-            "id": "5d28e540daac4c6e",
+            "id": "6754e3b0e626d1a8",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -157,7 +122,7 @@
             }
           },
           {
-            "id": "110ad844ae0bf4ed",
+            "id": "9c31dc95ddc73b44",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -171,7 +136,7 @@
             }
           },
           {
-            "id": "521b35765f5fd313",
+            "id": "a57e31b6cf0e8184",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -186,7 +151,7 @@
             }
           },
           {
-            "id": "d9774c486032fd5e",
+            "id": "cca010168c984c59",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -217,13 +182,6 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "3ae7cf3b0c06408f",
-  "lastOpenFiles": [
-    "modalesxd.jpg",
-    "channels4_profile.jpg",
-    "modales.png",
-    "Sin título.md",
-    "README.md",
-    "2.md"
-  ]
+  "active": "482a91c2116f4cda",
+  "lastOpenFiles": []
 }

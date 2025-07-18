@@ -26,18 +26,18 @@
 <details>
   <summary><strong>🖥️ Frameworks</strong></summary>
   <p>
-    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nestjs" alt="Next.js, React, Tailwind CSS, NestJS" width="180" height="32"/>
+    <img src="https://skillicons.dev/icons?i=nestjs,express,nextjs,react" alt="Next.js, React, Tailwind CSS, NestJS" width="180" height="32"/>
   </p>
 </details>
 <details>
   <summary><strong>⚙️ Tools</strong></summary>
   <p>
-    <img src="https://skillicons.dev/icons?i=docker,git,vscode,postman,pnpm,figma,bash" alt="Docker, Git, VS Code, Postman, PNPM, Figma, Bash" width="220" height="32"/>
+    <img src="https://skillicons.dev/icons?i=bash,linux,git,pnpm,bash,npm,obsidian" alt="" width="220" height="32"/>
   </p>
 </details>
 
 ## 🌱 Currently Learning
-<img src="https://skillicons.dev/icons?i=docker,nest,next,tailwind,bash" alt="Docker, Git, VS Code, Postman, PNPM, Figma, Bash" width="180" height="32"/>
+<img src="https://skillicons.dev/icons?i=docker,express,adonis,linux,python"  width="180" height="32"/>
 
 ---
 
@@ -48,11 +48,8 @@
     <a href="mailto:modalesxd@protonmail.com">
       <img src="https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"/>
     </a>
-    <a href="https://github.com/modalesxd" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    </a>
-    <a href="https://gitlab.com/ModalesXD" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/GitLab-a3473c?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
+    <a href="https://discord.gg/aGGMfz8EWR" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/Discord-139?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
     </a>
   </div>
 </div>
