@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4b0cfd4f6f8e628e",
+        "id": "bf9b461b341c3e8d",
         "type": "tabs",
         "children": [
           {
-            "id": "482a91c2116f4cda",
+            "id": "d8cc46daca12355c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,15 +20,21 @@
               "icon": "lucide-file",
               "title": "README"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "9153d83be0bc2d06",
+        "type": "tabs",
+        "children": [
           {
-            "id": "d8cc46daca12355c",
+            "id": "90c274e2804dc7fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "README.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -182,6 +188,6 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "482a91c2116f4cda",
+  "active": "d8cc46daca12355c",
   "lastOpenFiles": []
 }
