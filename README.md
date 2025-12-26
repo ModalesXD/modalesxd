@@ -18,7 +18,6 @@
 
 ## 🧠 About Me
 
-- 🛠️ Building my own personal system: **Mortex** — a digital brain built in Obsidian
 - ⚙️ Passionate about **automation**, **efficiency**, and **digital sovereignty**
 - 🧩 Love working on **modular systems**, **clean design**, and **developer tools**
 - 🌐 I balance software with electronics, circuit design, and learning mechatronics
