@@ -16,37 +16,6 @@
 
 ---
 
-## 🚀 Tech Stack
-
-<details>
-  <summary><strong>💻 Languages</strong></summary>
-  <p>
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,py" alt="HTML,CSS,JavaScript,TypeScript" width="200" height="32"/>
-  </p>
-</details>
-
-<details>
-  <summary><strong>🖥️ Frameworks & Libraries</strong></summary>
-  <p>
-    <img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,express,tailwind" alt="React, Next.js, NestJS, Express, Tailwind CSS" width="240" height="32"/>
-  </p>
-</details>
-
-<details>
-  <summary><strong>⚙️ Tools & Platforms</strong></summary>
-  <p>
-    <img src="https://skillicons.dev/icons?i=linux,bash,git,pnpm,npm,obsidian" alt="Linux, Bash, Git, pnpm, npm, obsidian" width="240" height="32"/>
-  </p>
-</details>
-
----
-
-## 🌱 Currently Learning
-
-<img src="https://skillicons.dev/icons?i=python,adonis,docker,express,tailwind"  width="220" height="32"/>
-
----
-
 ## 🧠 About Me
 
 - 🛠️ Building my own personal system: **Mortex** — a digital brain built in Obsidian
