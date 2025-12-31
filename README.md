@@ -4,7 +4,7 @@
     <td valign="middle" width="60%">
       <h1 align="left" style="color: #4f46e5; font-size: 2.2rem;">Hello! 👋 I'm Modales</h1>
       <p align="left" style="max-width: 450px; font-size: 1.1rem; color: #444;">
-        <b>Self-Taught Developer</b> • <b>Linux Enthusiast</b> • <b>Open Source Advocate</b> • <b>Minecraft Lover<br/>
+        <b>Self-Taught Developer</b> • <b>Linux Enthusiast</b> • <b>Open Source Advocate</b>
         Passionate about building systems, automating workflows, and understanding technology at its core.
       </p>
     </td>
